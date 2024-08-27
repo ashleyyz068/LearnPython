@@ -18,7 +18,7 @@ while value <= 10:
     if value == 5: 
         continue 
     print(value)
-    print("value equal: " + str(value))else:
+else:
     print("vlaue is now equal to " +str(value))
 
 for x in "Mississippi": 
